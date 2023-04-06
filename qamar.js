@@ -54,7 +54,7 @@ margin-left: 5px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/03/167873484887711.png);
+ background-image: url(https://up6.cc/2023/04/168082054361371.jpg);
 background-size: 100%;
     
 }
@@ -81,7 +81,7 @@ margin-left: -271px;
 }
 `);
 const _wrdh56zznz4 = [
-    {name: "wrdh1", deco: "Admin", cls: "wrdh", icon: "https://up6.cc/2023/03/167873405723561.png"}
+    {name: "wrdh1", deco: "Admin", cls: "wrdh", icon: "https://up6.cc/2023/02/167675615002251.png"}
 ];
 setInterval(() => {
     if(myid != null){
